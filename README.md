@@ -1,4 +1,4 @@
-# Outbound-KPI-Algorithm 📋✍🏻
+# inbound/outbound KPI-Algorithm 📋✍🏻
 
 This algorithm primarily focuses on Python. There are several issues that need to be addressed : 
 
